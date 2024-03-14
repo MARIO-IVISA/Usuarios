@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: usuariospod
+spec:
+  containers:
+  - name: usuariospod
+    image: duarte3108/usuarios
+    ports:
+    - containerPort: 8081
