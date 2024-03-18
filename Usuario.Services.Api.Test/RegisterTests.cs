@@ -9,6 +9,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using Usuario.Services.Api.Enuns;
 
 namespace Usuario.Services.Api.Test
 {
@@ -17,7 +18,7 @@ namespace Usuario.Services.Api.Test
         private readonly string _endpoint;
         public RegisterTests()
         {
-            _endpoint = "/api/register";
+            _endpoint = "/api/cadastro";
         }
 
         [Fact]
@@ -27,8 +28,10 @@ namespace Usuario.Services.Api.Test
             var model = new RegisterViewModel 
             {
                 Nome = faker.Person.FullName,
-                Email = faker.Person.Email.ToLower(),
-                Senha = faker.Internet.Password(8)
+                Email = faker.Person.Email,
+                Senha = faker.Internet.Password(8),
+                DataNascimento = faker.Date.Past(),
+                Perfil = PerfilEnum.Aluno
             };
             var client = TestsHelper.CreateClient();
             var result = await client.PostAsync(_endpoint, TestsHelper.CreateContent(model));
@@ -64,3 +67,4 @@ namespace Usuario.Services.Api.Test
         }
     }
 }
+    

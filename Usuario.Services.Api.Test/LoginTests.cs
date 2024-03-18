@@ -37,7 +37,7 @@ namespace Usuario.Services.Api.Test
         {
             var faker = new Faker("pt_BR");
 
-            var model = new LoginViewModel
+             var model = new LoginViewModel
             {
                 Email = faker.Person.Email,
                 Senha = faker.Internet.Password(8)

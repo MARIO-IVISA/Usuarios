@@ -61,13 +61,13 @@ app.MapPost("/api/cadastro", (SqlServerContext context, RegisterViewModel model)
         return Results.BadRequest(model.Notifications);
 
     if (context.Usuarios.FirstOrDefault(u => u.Email.Equals(model.Email)) != null)
-        return Results.BadRequest(new { message = "O email informado j� est� cadastrado, tente outro." });
+        return Results.BadRequest(new { message = "O email informado ja esta cadastrado, tente outro." });
 
 
     context.Usuarios.Add(usuario);
     context.SaveChanges();
 
-    return Results.Ok(new { usuario });
+    return Results.Ok(new { usuario.Id, usuario.Nome, usuario.Email, usuario.DataNascimento });
 });
 
 app.MapGet("/api/usuarios", (SqlServerContext context) =>
@@ -93,46 +93,6 @@ app.MapGet("/api/usuariosPorId/{id}", (SqlServerContext context, Guid id) =>
     return Results.Ok(new { usuario });
 });
 
-app.MapGet("/api/usuariosPorPerfil/{perfil}", (SqlServerContext context, int perfil) =>
-{
-    var perfilEnum = (PerfilEnum)perfil;
-
-    var usuariosExistente = context.Usuarios.Where(u => u.PerfilEnum == perfilEnum).ToList();
-
-    if (usuariosExistente.Count <= 0)
-        return Results.BadRequest(new { message = "N�o existe usu�rio com esse perfil." });
-
-    return Results.Ok(new { usuariosExistente });
-});
-
-app.MapGet("/api/usuariosPorIds/{ids}", (SqlServerContext context, string ids) =>
-{
-    string[] idStrings = ids.Split(',');
-
-    Guid[] idArray = idStrings.Select(id => Guid.Parse(id)).ToArray();
-
-    var usuarios = context.Usuarios
-        .Where(u => idArray.Any(id => id == u.Id))
-        .ToList();
-
-    if (usuarios.Count == 0)
-        return Results.BadRequest(new { message = "Nenhum usu�rio encontrado com os IDs fornecidos." });
-
-    return Results.Ok(new { usuarios });
-});
-
-app.MapPut("/api/atualizaPerfil", (SqlServerContext context, Pessoa usuario) =>
-{
-    var usuarioExistente = context.Usuarios.FirstOrDefault(u => u.Id.Equals(usuario.Id));
-
-    if (usuarioExistente == null)
-        return Results.BadRequest(new { message = "Usu�rio n�o cadastrado." });
-
-    usuarioExistente.PerfilEnum = usuario.PerfilEnum;
-    context.SaveChanges();
-
-    return Results.Ok(new { usuarioExistente });
-});
 
 #endregion
 

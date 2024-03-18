@@ -136,3 +136,4 @@ C:\Users\mario\Desktop\PROJETO FINAL - Copia (2)\USUARIOS\Usuario\Usuario.Servic
 C:\Users\mario\Desktop\PROJETO FINAL - Copia (2)\USUARIOS\Usuario\Usuario.Services.Api\obj\Debug\net6.0\Usuario.Services.Api.pdb
 C:\Users\mario\Desktop\PROJETO FINAL - Copia (2)\USUARIOS\Usuario\Usuario.Services.Api\obj\Debug\net6.0\Usuario.Services.Api.genruntimeconfig.cache
 C:\Users\mario\Desktop\PROJETO FINAL - Copia (2)\USUARIOS\Usuario\Usuario.Services.Api\obj\Debug\net6.0\ref\Usuario.Services.Api.dll
+C:\Users\mario\Desktop\PROJETO FINAL - Copia (2)\USUARIOS\Usuario\Usuario.Services.Api\obj\Debug\net6.0\Usuario.Services.Api.sourcelink.json
