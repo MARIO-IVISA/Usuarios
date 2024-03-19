@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Usuario.Services.Api.Test
-build_property.ProjectDir = C:\Users\mario\Desktop\PROJETO FINAL - Copia (2)\USUARIOS\Usuario\Usuario.Services.Api.Test\
+build_property.ProjectDir = C:\FASE-05\SISTEMAS\Usuarios\Usuario.Services.Api.Test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

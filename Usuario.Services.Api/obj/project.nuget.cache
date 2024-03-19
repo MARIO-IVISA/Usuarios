@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGyXileoTa9oD/g/RmNb6VTkRa9/pEse5m4oC8DQ48Zm4ariHduFFPaLJZB3DKAiMZBGmYABCEy3mKKLmQmJUw==",
+  "dgSpecHash": "mrZPhUmgb1t6JG0OFEMLPhkjQ/yq7gu8ESrcip359bztF4V2Xz+j5d0W5OCCx3cv6yISZgkfdePjeBjGiRt63g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Usuario.Services.Api.csproj",
+  "projectFilePath": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Usuario.Services.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mario\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",

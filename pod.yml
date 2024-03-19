@@ -1,10 +1,82 @@
-apiVersion: v1
-kind: Pod
+apiVersion: apps/v1
+kind: Deployment
 metadata:
   name: usuariospod
 spec:
-  containers:
-  - name: usuariospod
-    image: duarte3108/usuarios
-    ports:
-    - containerPort: 8081
+  replicas: 1
+  selector:
+    matchLabels:
+      app: usuariospod
+  template:
+    metadata:
+      labels:
+        app: usuariospod
+    spec:
+      containers:
+        - name: usuariospod
+          image: duarte3108/usuariosfase05
+          ports:
+            - containerPort: 80
+          volumeMounts:  
+            - name: sqldata-usuariospod
+              mountPath: /var/opt/mssql/data
+      volumes:
+        - name: sqldata-usuariospod
+          emptyDir: {}
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sqldata-usuariospod
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sqldata-usuariospod
+  template:
+    metadata:
+      labels:
+        app: sqldata-usuariospod
+    spec:
+      containers:
+        - name: sqldata-usuariospod
+          image: mcr.microsoft.com/mssql/server:2019-latest
+          env:
+            - name: SA_PASSWORD
+              value: "BlindRio#"
+            - name: ACCEPT_EULA
+              value: "Y"
+          ports:
+            - containerPort: 1433
+          volumeMounts:
+            - name: sqldata-usuariospod
+              mountPath: /var/opt/mssql/data
+      volumes:
+        - name: sqldata-usuariospod
+          emptyDir: {}
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: usuariospod
+spec:
+  selector:
+    app: usuariospod
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: sqldata-usuariospod
+spec:
+  selector:
+    app: sqldata-usuariospod
+  ports:
+    - protocol: TCP
+      port: 1433
+      targetPort: 1433

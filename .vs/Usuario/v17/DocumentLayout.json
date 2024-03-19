@@ -1,49 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\",
+  "WorkspaceRootPath": "C:\\FASE-05\\SISTEMAS\\Usuarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71336DE7-8036-4556-B93E-5F215B1E5F4A}|Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api.test\\registertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71336DE7-8036-4556-B93E-5F215B1E5F4A}|Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj|solutionrelative:usuario.services.api.test\\registertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|solutionrelative:usuario.services.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|solutionrelative:usuario.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71336DE7-8036-4556-B93E-5F215B1E5F4A}|Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api.test\\registertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71336DE7-8036-4556-B93E-5F215B1E5F4A}|Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj|solutionrelative:usuario.services.api.test\\registertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|solutionrelative:usuario.services.api\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71336DE7-8036-4556-B93E-5F215B1E5F4A}|Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api.test\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71336DE7-8036-4556-B93E-5F215B1E5F4A}|Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api.test\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71336DE7-8036-4556-B93E-5F215B1E5F4A}|Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj|solutionrelative:usuario.services.api.test\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71336DE7-8036-4556-B93E-5F215B1E5F4A}|Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api.test\\helper\\testshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71336DE7-8036-4556-B93E-5F215B1E5F4A}|Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api.test\\helper\\testshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71336DE7-8036-4556-B93E-5F215B1E5F4A}|Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj|solutionrelative:usuario.services.api.test\\helper\\testshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api\\viewmodels\\usuarioretornoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api\\viewmodels\\usuarioretornoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|solutionrelative:usuario.services.api\\viewmodels\\usuarioretornoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|solutionrelative:usuario.services.api\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api\\enuns\\perfilenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api\\enuns\\perfilenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|solutionrelative:usuario.services.api\\enuns\\perfilenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|solutionrelative:usuario.services.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api\\contexts\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api\\contexts\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|solutionrelative:usuario.services.api\\contexts\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\users\\mario\\desktop\\projeto final - copia (2)\\usuarios\\usuario\\usuario.services.api\\migrations\\20240309122108_pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|c:\\fase-05\\sistemas\\usuarios\\usuario.services.api\\migrations\\20240309122108_pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BEE4ADC-63B9-4AE4-8610-D2FE70F81F07}|Usuario.Services.Api\\Usuario.Services.Api.csproj|solutionrelative:usuario.services.api\\migrations\\20240309122108_pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -60,36 +64,47 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Program.cs",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Program.cs",
               "RelativeDocumentMoniker": "Usuario.Services.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Program.cs",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Program.cs",
               "RelativeToolTip": "Usuario.Services.Api\\Program.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAwwEUAAABbAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T12:19:16.101Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegisterTests.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\RegisterTests.cs",
-              "RelativeDocumentMoniker": "Usuario.Services.Api.Test\\RegisterTests.cs",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\RegisterTests.cs",
-              "RelativeToolTip": "Usuario.Services.Api.Test\\RegisterTests.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAqwEUAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T12:20:05.61Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Usuario.Services.Api\\appsettings.json",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\appsettings.json",
+              "RelativeToolTip": "Usuario.Services.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T20:07:25.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "RegisterTests.cs",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\RegisterTests.cs",
+              "RelativeDocumentMoniker": "Usuario.Services.Api.Test\\RegisterTests.cs",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\RegisterTests.cs",
+              "RelativeToolTip": "Usuario.Services.Api.Test\\RegisterTests.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAowEUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:20:05.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UsuarioRetornoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\ViewModels\\UsuarioRetornoViewModel.cs",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\ViewModels\\UsuarioRetornoViewModel.cs",
               "RelativeDocumentMoniker": "Usuario.Services.Api\\ViewModels\\UsuarioRetornoViewModel.cs",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\ViewModels\\UsuarioRetornoViewModel.cs",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\ViewModels\\UsuarioRetornoViewModel.cs",
               "RelativeToolTip": "Usuario.Services.Api\\ViewModels\\UsuarioRetornoViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,11 +112,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\ViewModels\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Usuario.Services.Api\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "Usuario.Services.Api\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,11 +124,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Entities\\Pessoa.cs",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Entities\\Pessoa.cs",
               "RelativeDocumentMoniker": "Usuario.Services.Api\\Entities\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Entities\\Pessoa.cs",
               "RelativeToolTip": "Usuario.Services.Api\\Entities\\Pessoa.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TestsHelper.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\Helper\\TestsHelper.cs",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\Helper\\TestsHelper.cs",
               "RelativeDocumentMoniker": "Usuario.Services.Api.Test\\Helper\\TestsHelper.cs",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\Helper\\TestsHelper.cs",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\Helper\\TestsHelper.cs",
               "RelativeToolTip": "Usuario.Services.Api.Test\\Helper\\TestsHelper.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAA9wBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,24 +148,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginTests.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\LoginTests.cs",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\LoginTests.cs",
               "RelativeDocumentMoniker": "Usuario.Services.Api.Test\\LoginTests.cs",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\LoginTests.cs",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\LoginTests.cs",
               "RelativeToolTip": "Usuario.Services.Api.Test\\LoginTests.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAmwDEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T23:03:56.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T23:03:56.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20240309122108_pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Migrations\\20240309122108_pessoa.cs",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Migrations\\20240309122108_pessoa.cs",
               "RelativeDocumentMoniker": "Usuario.Services.Api\\Migrations\\20240309122108_pessoa.cs",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Migrations\\20240309122108_pessoa.cs",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Migrations\\20240309122108_pessoa.cs",
               "RelativeToolTip": "Usuario.Services.Api\\Migrations\\20240309122108_pessoa.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,11 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Dockerfile",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Dockerfile",
               "RelativeDocumentMoniker": "Usuario.Services.Api\\Dockerfile",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Dockerfile",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Dockerfile",
               "RelativeToolTip": "Usuario.Services.Api\\Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -170,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PerfilEnum.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Enuns\\PerfilEnum.cs",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Enuns\\PerfilEnum.cs",
               "RelativeDocumentMoniker": "Usuario.Services.Api\\Enuns\\PerfilEnum.cs",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Enuns\\PerfilEnum.cs",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Enuns\\PerfilEnum.cs",
               "RelativeToolTip": "Usuario.Services.Api\\Enuns\\PerfilEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SqlServerContext.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Contexts\\SqlServerContext.cs",
+              "DocumentMoniker": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Contexts\\SqlServerContext.cs",
               "RelativeDocumentMoniker": "Usuario.Services.Api\\Contexts\\SqlServerContext.cs",
-              "ToolTip": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Contexts\\SqlServerContext.cs",
+              "ToolTip": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Contexts\\SqlServerContext.cs",
               "RelativeToolTip": "Usuario.Services.Api\\Contexts\\SqlServerContext.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAkwBIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

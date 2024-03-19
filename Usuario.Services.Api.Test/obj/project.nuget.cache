@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K7yQReYg5qNYUKbbsq+ADnEZ+9prW0H9UfjLpE5QM12e3RH/gwsCDx1GG/KxwdKAgi4oGqSd3OagFJA5s+DlTA==",
+  "dgSpecHash": "YR1wgyi/5HHp+cXS8AJIFHqkTr5kWO6ACfFH0bMtRRyOqFXnWD4d5vY+ty3YKTn1g8iBl990uqSaBJerBKhInQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj",
+  "projectFilePath": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mario\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

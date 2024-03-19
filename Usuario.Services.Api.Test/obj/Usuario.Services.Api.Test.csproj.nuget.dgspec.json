@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj": {}
+    "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj": {
+    "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj",
+        "projectUniqueName": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj",
         "projectName": "Usuario.Services.Api.Test",
-        "projectPath": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj",
+        "projectPath": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\Usuario.Services.Api.Test.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api.Test\\obj\\",
+        "outputPath": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Usuario.Services.Api.csproj": {
-                "projectPath": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Usuario.Services.Api.csproj"
+              "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Usuario.Services.Api.csproj": {
+                "projectPath": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Usuario.Services.Api.csproj"
               }
             }
           }
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Usuario.Services.Api.csproj": {
+    "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Usuario.Services.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Usuario.Services.Api.csproj",
+        "projectUniqueName": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Usuario.Services.Api.csproj",
         "projectName": "Usuario.Services.Api",
-        "projectPath": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\Usuario.Services.Api.csproj",
+        "projectPath": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\Usuario.Services.Api.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mario\\Desktop\\PROJETO FINAL - Copia (2)\\USUARIOS\\Usuario\\Usuario.Services.Api\\obj\\",
+        "outputPath": "C:\\FASE-05\\SISTEMAS\\Usuarios\\Usuario.Services.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
